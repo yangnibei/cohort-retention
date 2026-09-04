@@ -1,0 +1,491 @@
+{
+  "project": "Cohort Retention",
+  "metrics": {
+    "raw_rows": 541909,
+    "duplicate_rows_removed": 5268,
+    "valid_nonzero_priced_rows": 534129,
+    "purchase_rows": 392692,
+    "purchase_rows_missing_customer_id": 132186,
+    "complete_months": 12,
+    "weighted_month_1_retention": 0.236537,
+    "excluded_partial_month": "2011-12",
+    "cohort_cells": [
+      {
+        "cohort": "2010-12",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 885
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 1,
+        "retention": 0.366102,
+        "customers": 324
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 2,
+        "retention": 0.323164,
+        "customers": 286
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 3,
+        "retention": 0.384181,
+        "customers": 340
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 4,
+        "retention": 0.362712,
+        "customers": 321
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 5,
+        "retention": 0.39774,
+        "customers": 352
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 6,
+        "retention": 0.362712,
+        "customers": 321
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 7,
+        "retention": 0.349153,
+        "customers": 309
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 8,
+        "retention": 0.353672,
+        "customers": 313
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 9,
+        "retention": 0.39548,
+        "customers": 350
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 10,
+        "retention": 0.374011,
+        "customers": 331
+      },
+      {
+        "cohort": "2010-12",
+        "age_months": 11,
+        "retention": 0.502825,
+        "customers": 445
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 417
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 1,
+        "retention": 0.220624,
+        "customers": 92
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 2,
+        "retention": 0.266187,
+        "customers": 111
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 3,
+        "retention": 0.230216,
+        "customers": 96
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 4,
+        "retention": 0.321343,
+        "customers": 134
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 5,
+        "retention": 0.28777,
+        "customers": 120
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 6,
+        "retention": 0.247002,
+        "customers": 103
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 7,
+        "retention": 0.242206,
+        "customers": 101
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 8,
+        "retention": 0.29976,
+        "customers": 125
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 9,
+        "retention": 0.326139,
+        "customers": 136
+      },
+      {
+        "cohort": "2011-01",
+        "age_months": 10,
+        "retention": 0.364508,
+        "customers": 152
+      },
+      {
+        "cohort": "2011-02",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 380
+      },
+      {
+        "cohort": "2011-02",
+        "age_months": 1,
+        "retention": 0.186842,
+        "customers": 71
+      },
+      {
+        "cohort": "2011-02",
+        "age_months": 2,
+        "retention": 0.186842,
+        "customers": 71
+      },
+      {
+        "cohort": "2011-02",
+        "age_months": 3,
+        "retention": 0.284211,
+        "customers": 108
+      },
+      {
+        "cohort": "2011-02",
+        "age_months": 4,
+        "retention": 0.271053,
+        "customers": 103
+      },
+      {
+        "cohort": "2011-02",
+        "age_months": 5,
+        "retention": 0.247368,
+        "customers": 94
+      },
+      {
+        "cohort": "2011-02",
+        "age_months": 6,
+        "retention": 0.252632,
+        "customers": 96
+      },
+      {
+        "cohort": "2011-02",
+        "age_months": 7,
+        "retention": 0.278947,
+        "customers": 106
+      },
+      {
+        "cohort": "2011-02",
+        "age_months": 8,
+        "retention": 0.247368,
+        "customers": 94
+      },
+      {
+        "cohort": "2011-02",
+        "age_months": 9,
+        "retention": 0.305263,
+        "customers": 116
+      },
+      {
+        "cohort": "2011-03",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 452
+      },
+      {
+        "cohort": "2011-03",
+        "age_months": 1,
+        "retention": 0.150442,
+        "customers": 68
+      },
+      {
+        "cohort": "2011-03",
+        "age_months": 2,
+        "retention": 0.252212,
+        "customers": 114
+      },
+      {
+        "cohort": "2011-03",
+        "age_months": 3,
+        "retention": 0.199115,
+        "customers": 90
+      },
+      {
+        "cohort": "2011-03",
+        "age_months": 4,
+        "retention": 0.223451,
+        "customers": 101
+      },
+      {
+        "cohort": "2011-03",
+        "age_months": 5,
+        "retention": 0.168142,
+        "customers": 76
+      },
+      {
+        "cohort": "2011-03",
+        "age_months": 6,
+        "retention": 0.267699,
+        "customers": 121
+      },
+      {
+        "cohort": "2011-03",
+        "age_months": 7,
+        "retention": 0.230088,
+        "customers": 104
+      },
+      {
+        "cohort": "2011-03",
+        "age_months": 8,
+        "retention": 0.278761,
+        "customers": 126
+      },
+      {
+        "cohort": "2011-04",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 300
+      },
+      {
+        "cohort": "2011-04",
+        "age_months": 1,
+        "retention": 0.213333,
+        "customers": 64
+      },
+      {
+        "cohort": "2011-04",
+        "age_months": 2,
+        "retention": 0.203333,
+        "customers": 61
+      },
+      {
+        "cohort": "2011-04",
+        "age_months": 3,
+        "retention": 0.21,
+        "customers": 63
+      },
+      {
+        "cohort": "2011-04",
+        "age_months": 4,
+        "retention": 0.196667,
+        "customers": 59
+      },
+      {
+        "cohort": "2011-04",
+        "age_months": 5,
+        "retention": 0.226667,
+        "customers": 68
+      },
+      {
+        "cohort": "2011-04",
+        "age_months": 6,
+        "retention": 0.216667,
+        "customers": 65
+      },
+      {
+        "cohort": "2011-04",
+        "age_months": 7,
+        "retention": 0.26,
+        "customers": 78
+      },
+      {
+        "cohort": "2011-05",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 284
+      },
+      {
+        "cohort": "2011-05",
+        "age_months": 1,
+        "retention": 0.190141,
+        "customers": 54
+      },
+      {
+        "cohort": "2011-05",
+        "age_months": 2,
+        "retention": 0.172535,
+        "customers": 49
+      },
+      {
+        "cohort": "2011-05",
+        "age_months": 3,
+        "retention": 0.172535,
+        "customers": 49
+      },
+      {
+        "cohort": "2011-05",
+        "age_months": 4,
+        "retention": 0.207746,
+        "customers": 59
+      },
+      {
+        "cohort": "2011-05",
+        "age_months": 5,
+        "retention": 0.232394,
+        "customers": 66
+      },
+      {
+        "cohort": "2011-05",
+        "age_months": 6,
+        "retention": 0.264085,
+        "customers": 75
+      },
+      {
+        "cohort": "2011-06",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 242
+      },
+      {
+        "cohort": "2011-06",
+        "age_months": 1,
+        "retention": 0.173554,
+        "customers": 42
+      },
+      {
+        "cohort": "2011-06",
+        "age_months": 2,
+        "retention": 0.157025,
+        "customers": 38
+      },
+      {
+        "cohort": "2011-06",
+        "age_months": 3,
+        "retention": 0.264463,
+        "customers": 64
+      },
+      {
+        "cohort": "2011-06",
+        "age_months": 4,
+        "retention": 0.231405,
+        "customers": 56
+      },
+      {
+        "cohort": "2011-06",
+        "age_months": 5,
+        "retention": 0.334711,
+        "customers": 81
+      },
+      {
+        "cohort": "2011-07",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 188
+      },
+      {
+        "cohort": "2011-07",
+        "age_months": 1,
+        "retention": 0.180851,
+        "customers": 34
+      },
+      {
+        "cohort": "2011-07",
+        "age_months": 2,
+        "retention": 0.207447,
+        "customers": 39
+      },
+      {
+        "cohort": "2011-07",
+        "age_months": 3,
+        "retention": 0.223404,
+        "customers": 42
+      },
+      {
+        "cohort": "2011-07",
+        "age_months": 4,
+        "retention": 0.271277,
+        "customers": 51
+      },
+      {
+        "cohort": "2011-08",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 169
+      },
+      {
+        "cohort": "2011-08",
+        "age_months": 1,
+        "retention": 0.207101,
+        "customers": 35
+      },
+      {
+        "cohort": "2011-08",
+        "age_months": 2,
+        "retention": 0.248521,
+        "customers": 42
+      },
+      {
+        "cohort": "2011-08",
+        "age_months": 3,
+        "retention": 0.242604,
+        "customers": 41
+      },
+      {
+        "cohort": "2011-09",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 299
+      },
+      {
+        "cohort": "2011-09",
+        "age_months": 1,
+        "retention": 0.234114,
+        "customers": 70
+      },
+      {
+        "cohort": "2011-09",
+        "age_months": 2,
+        "retention": 0.301003,
+        "customers": 90
+      },
+      {
+        "cohort": "2011-10",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 358
+      },
+      {
+        "cohort": "2011-10",
+        "age_months": 1,
+        "retention": 0.240223,
+        "customers": 86
+      },
+      {
+        "cohort": "2011-11",
+        "age_months": 0,
+        "retention": 1.0,
+        "customers": 323
+      }
+    ]
+  },
+  "provenance": {
+    "retail": {
+      "url": "https://archive.ics.uci.edu/static/public/352/online%2Bretail.zip",
+      "sha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+      "citation": "Chen, D. (2015). Online Retail. https://doi.org/10.24432/C5BW33",
+      "license": "CC BY 4.0"
+    }
+  }
+}
