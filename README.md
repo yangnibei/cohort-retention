@@ -8,6 +8,11 @@
 
 ![Cohort Retention: reproducible analysis](analysis.svg)
 
+## Visual guide
+
+- **Left — cohort matrix:** compares cohorts at equal maturity; month 0 is 100% by definition and blank cells are not yet observable.
+- **Right — weighted age curve:** summarises returning customers using only eligible cohort bases at each month age; the denominator changes over time.
+
 ## Business brief
 
 This public-data case study explores a focused business question using **Monthly acquisition cohorts, repeat-purchase heatmap, censoring**. Read the results alongside their assumptions before acting on them.
@@ -48,4 +53,3 @@ This repository is an educational portfolio case study, not paid client work, em
 - `REPORT.md`: generated findings and decision boundaries.
 - `results.json`: aggregate metrics and source provenance.
 - `analysis.svg`: reproducible figure.
-

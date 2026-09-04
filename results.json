@@ -9,6 +9,74 @@
     "complete_months": 12,
     "weighted_month_1_retention": 0.236537,
     "excluded_partial_month": "2011-12",
+    "weighted_retention_by_age": [
+      {
+        "age_months": 1,
+        "retention": 0.236537,
+        "eligible_cohorts": 11,
+        "eligible_base_customers": 3974
+      },
+      {
+        "age_months": 2,
+        "retention": 0.24917,
+        "eligible_cohorts": 10,
+        "eligible_base_customers": 3616
+      },
+      {
+        "age_months": 3,
+        "retention": 0.269219,
+        "eligible_cohorts": 9,
+        "eligible_base_customers": 3317
+      },
+      {
+        "age_months": 4,
+        "retention": 0.280813,
+        "eligible_cohorts": 8,
+        "eligible_base_customers": 3148
+      },
+      {
+        "age_months": 5,
+        "retention": 0.289527,
+        "eligible_cohorts": 7,
+        "eligible_base_customers": 2960
+      },
+      {
+        "age_months": 6,
+        "retention": 0.287344,
+        "eligible_cohorts": 6,
+        "eligible_base_customers": 2718
+      },
+      {
+        "age_months": 7,
+        "retention": 0.286771,
+        "eligible_cohorts": 5,
+        "eligible_base_customers": 2434
+      },
+      {
+        "age_months": 8,
+        "retention": 0.308341,
+        "eligible_cohorts": 4,
+        "eligible_base_customers": 2134
+      },
+      {
+        "age_months": 9,
+        "retention": 0.357907,
+        "eligible_cohorts": 3,
+        "eligible_base_customers": 1682
+      },
+      {
+        "age_months": 10,
+        "retention": 0.370968,
+        "eligible_cohorts": 2,
+        "eligible_base_customers": 1302
+      },
+      {
+        "age_months": 11,
+        "retention": 0.502825,
+        "eligible_cohorts": 1,
+        "eligible_base_customers": 885
+      }
+    ],
     "cohort_cells": [
       {
         "cohort": "2010-12",
